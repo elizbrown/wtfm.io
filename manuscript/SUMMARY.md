@@ -22,5 +22,5 @@
   * [Linters, Sniffers, and Validators](19-linters-sniffers-and-validators.md)
   * [Generators](20-generators.md)
   * [Design and Hosting](21-design-and-hosting.md)
-* [Parv V: Examples and Extras](22-examples-and-extras.md)
+* [Part V: Examples and Extras](22-examples-and-extras.md)
   * [Documentation Strategy; A Template](23-documentation-strategy.md)
